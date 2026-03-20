@@ -1,0 +1,25 @@
+{
+  "name": "e2-m7-ejercicio",
+  "version": "1.0.0",
+  "description": "Lectura de Datos y Consultas Seguras",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/niquel665/E2-M7-Ejercicio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/niquel665/E2-M7-Ejercicio/issues"
+  },
+  "homepage": "https://github.com/niquel665/E2-M7-Ejercicio#readme",
+  "dependencies": {
+    "dotenv": "^17.3.1",
+    "pg": "^8.20.0"
+  }
+}
