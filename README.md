@@ -45,5 +45,7 @@ La base de datos PostgreSQL fue gestionada mediante **Neon**, utilizando su pane
 ├── app.js
 ├── db.js
 ├── package.json
-├── .gitignore
-└── .env
+├── README.md
+└── assets/
+    ├── neon-tabla-usuarios.png
+    └── consola-resultados.png
